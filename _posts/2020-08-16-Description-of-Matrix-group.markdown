@@ -23,7 +23,7 @@ $$
 
 **Теорема:**
 
-$$M_n \simeq \begin{cases}
+$$M_n = \begin{cases}
 \varphi(n)^2 & \text{n is odd} \\
 2\varphi(n)^2 & \text{n is even} \\
 \end{cases}$$
@@ -152,4 +152,5 @@ $$\varepsilon =
 
 Заметим, что $\varepsilon^2 = 1$. Отсюда
 $$M_n/\ker(f) \simeq  \mathbb{Z}_n^* \times \mathbb{Z}_n^*$$
+
 ---
