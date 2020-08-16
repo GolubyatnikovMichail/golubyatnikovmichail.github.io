@@ -19,9 +19,11 @@ $$T_n(\cos(x))=\cos(nx)$$
 
 при этом выполняются следующие свойства:
 
-$$deg(T_n) = n \\
-\text{leading coefficient } T_n \text{ is } 2^{n-1} \\
-T_n(0) \in \\{-1, 0, 1\\}$$
+$$deg(T_n) = n$$
+
+$$\text{leading coefficient } T_n \text{ is } 2^{n-1}$$
+
+$$T_n(0) \in \{-1, 0, 1\}$$
 
 Рассмотрим многочлен 
 
