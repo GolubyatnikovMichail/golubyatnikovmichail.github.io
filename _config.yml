@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My Little Blog
+title: Golubyatnikov Mikhail
 email: mike_ru1@mail.ru
-description: My notes collection about math, essentially about groups, numbers and graphs.
+description: My personal notes about math, essentially about groups, numbers and graphs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 markdown: kramdown
