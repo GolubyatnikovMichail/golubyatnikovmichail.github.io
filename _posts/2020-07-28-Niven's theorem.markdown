@@ -163,3 +163,6 @@ $$\cos(\theta) = \frac{\zeta_n^m+\zeta_n^{-m}}{2},$$
 $$[\mathbb{Q}(\cos(\theta)): \mathbb{Q}] = \frac{\varphi([\mathbb{Q}(\zeta_n): \mathbb{Q}])}{2}=\frac{\varphi(n)}{2}$$
 
 ---
+Источник
+
+[**Jörg Jahnel**. When is the (co)sine of a rational angle equal to a rational number?](https://arxiv.org/abs/1006.2938)
